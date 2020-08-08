@@ -5,7 +5,6 @@ class UsaStateInfo {
   int deaths;
   int todayDeaths;
   int active;
-
   UsaStateInfo.fromJsonMap(Map<String, dynamic> map)
       : state = map["state"],
         cases = map["cases"],
