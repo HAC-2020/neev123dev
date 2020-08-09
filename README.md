@@ -2,6 +2,9 @@
 
 covid-tracking made simple
 
+<code><img height="100" src="![5](https://user-images.githubusercontent.com/59135264/89713177-c1156680-d9b3-11ea-8eb0-688d4fcaa9a5.jpg)
+"></code>
+
 ![cover](https://user-images.githubusercontent.com/59135264/89713166-a3480180-d9b3-11ea-9a64-00f7fb40c032.png)
 
 ## Screenshots
